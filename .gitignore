@@ -1,0 +1,5 @@
+# Virtual environment
+.rul_env/
+
+# Large synthetic cycle datasets (regenerate via generate_synthetic_data.py)
+data/**/*.csv
